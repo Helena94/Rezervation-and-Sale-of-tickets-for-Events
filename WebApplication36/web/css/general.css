@@ -1,0 +1,83 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 8, 2020, 2:50:17 PM
+    Author     : Jelena Jovanovic
+*/
+.bg-orange{
+    background-color: orange;
+}
+a.nav-link{
+    color:black!important;
+}
+a.nav-link:link{
+    color:black!important;
+}
+a.nav-link:hover{ 
+    color:white!important;
+}
+a.nav-link:active{ 
+    color:white!important;
+}
+header.bg-orange{
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+
+}
+footer.bg-orange{
+
+    height:2em;
+    line-height: 2em;
+    text-align: center;
+
+
+}
+div.cssmenu>ul>li{
+    list-style-type: none;
+}
+div.col{
+    background-color: blue;
+}
+div.col-2{
+    background-color: yellow
+}
+div.container-lg.abs{
+    position:relative!important;
+}
+.inline{
+    display: inline-block;
+}
+
+a.btn.btn-warning{
+    color:black!important;
+}
+a.btn.btn-warning:link{
+    color:black!important;
+}
+a.btn.btn-warning:hover{ 
+    color:white!important;
+}
+a.btn.btn-warning:active{ 
+    color:white!important;
+}
+button.btn.btn-warning.btn-block.text-center:not([disabled]){
+    color:black!important;
+}
+button.btn.btn-warning.btn-block.text-center:not([disabled]):link{
+    color:black!important;
+}
+button.btn.btn-warning.btn-block.text-center:not([disabled]):hover{ 
+    color:white!important;
+}
+button.btn.btn-warning.btn-block.text-center:not([disabled]):active{ 
+    color:white!important;
+}
+
+.table {
+width: auto;
+}
